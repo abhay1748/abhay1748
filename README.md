@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on Various Full Stack Projects & improving my problem solving skills with Data Structures and Algorithms.<br>🏫 I am a Final Year Student pursuing B.tech in Computer Science & Technology Specialisation in Full Stack and Devops.<br>👨‍🏫 I am looking for a Developer role.<br>📄 Ask me about Java , C++ and DSA.<br>
+🔭 I am currently working on Various Full Stack Projects & improving my problem solving skills with Data Structures and Algorithms.<br>🏫 I am a Final Year Student pursuing B.tech in Computer Science & Technology Specialisation in Full Stack and Devops.<br>👨‍🏫 I am looking for a Developer role.<br>📄 Ask me about Java , C++ , DSA, React, Node.js, Mongodb, Operating System and Database Management.<br>
 
 
 ## 🌐 Socials:
