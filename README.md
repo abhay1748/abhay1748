@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I am currently working on Various Full Stack Projects & improving my problem solving skills with Data Structures and Algorithms.<br>🏫 I am a Final Year Student pursuing B.tech in Computer Science & Technology Specialisation in Full Stack and Devops.<br>👨‍🏫 I am looking for a Developer role.<br>📄 Ask me about Java , C++ , DSA, React, Node.js, Mongodb, Operating System and Database Management.<br>
+🔭 I am a dedicated Full Stack Developer with hands-on experience in developing scalable and robust applications using the latest technologies.<br>
+💼 I am currently working at Invictus Data as a Full-Stack Developer, where I implement RESTful APIs, enhance application performance, and conduct comprehensive testing and debugging.<br>
+🎓 I hold a Bachelor of Technology in Computer Science and Engineering with a specialization in Full Stack and DevOps from DIT University, Dehradun.<br>
+📄 My technical skills include Java, C++, JavaScript, Python, HTML, CSS, React.js, Node.js, Express.js, SocketIO, JWT, Tailwind CSS, Bootstrap, MongoDB, Firebase, MySQL, AWS, and Generative AI. Additionally, I have a strong foundation in Data Structures & Algorithms, Operating Systems, and Software Engineering.<br>
+🌟 I am actively looking for new opportunities where I can leverage my skills and experience to contribute to impactful projects.<br>
+📫 Feel free to reach out to me for collaboration or any inquiries about my work.<br>
 
 
 ## 🌐 Socials:
